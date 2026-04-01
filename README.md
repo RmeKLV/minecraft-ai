@@ -50,3 +50,14 @@ Select mode 1 (Speedrun) or 2 (Survival) from the menu.
 - No combat logic — bot dies to mobs
 - No food/hunger management
 - No bed sleeping — phantoms will eventually spawn
+
+## Test World
+
+The Minecraft world used for development and testing:
+[Download from Google Drive](https://drive.google.com/drive/folders/16fejtlH8xgSMiPeEO0Xz6EDvUWinXAYg?usp=sharing)
+
+To use: download the folder and place it in your Minecraft saves directory.
+- Linux: `~/.minecraft/saves/`
+- Windows: `%appdata%\.minecraft\saves\`
+
+Server version: Minecraft 1.21.1 (offline mode, localhost:25565)
