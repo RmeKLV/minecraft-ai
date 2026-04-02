@@ -51,6 +51,28 @@ Select mode 1 (Speedrun) or 2 (Survival) from the menu.
 - No food/hunger management
 - No bed sleeping — phantoms will eventually spawn
 
+## Roadmap
+
+The current version targets Minecraft 1.21.1 but has proven difficult due to 
+complex water physics and swimming mechanics interfering with pathfinding.
+
+### Planned versions
+
+**1.16.1 — Speedrun focus**
+- The version used by professional Minecraft speedrunners
+- Well documented speedrun route: shipwreck → iron → nether → fortress → end
+- Piglin bartering for ender pearls (gold → pearls)
+- Simpler ocean and cave generation
+- Bastions provide reliable early gold and iron
+
+**1.12.2 — Survival focus**
+- Simplest water physics — no swimming animation fighting the pathfinder
+- No phantoms, no deep dark, no complex new mechanics
+- Most stable Mineflayer support for long autonomous sessions
+- Focus on sustainable resource gathering and base building
+
+Both versions will keep the same two-mode menu system and shared pathfinding core.
+
 ## Test World
 
 The Minecraft world used for development and testing:
